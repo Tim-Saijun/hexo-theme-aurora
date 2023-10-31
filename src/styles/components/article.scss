@@ -323,12 +323,12 @@
   .custom-quote,
   blockquote {
     position: relative;
-    padding: 0.5rem 1rem 0.5rem 2rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
     color: var(--text-normal);
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    margin-bottom: 2em;
-    margin-top: 2em;
+    margin-bottom: 0em;
+    margin-top: 0.7em;
     margin-right: 0 !important;
     border-left: 3px var(--text-accent) solid;
     border-top: transparent;
