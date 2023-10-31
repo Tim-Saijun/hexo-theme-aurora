@@ -21,7 +21,7 @@
                 </b>
               </a>
               & Themed by
-              <a href="https://github.com/obsidianext/hexo-theme-obsidianext">
+              <a href="https://github.com/Tim-Saijun/hexo-theme-aurora-s">
                 <b class="font-extrabold border-b-2 border-ob hover:text-ob">
                   Aurora v{{ themeConfig.version }}
                 </b>
@@ -55,6 +55,14 @@
                   </b>
                 </a>
               </span>
+            </li>
+            <li>
+              萌ICP备
+              <a href="https://icp.gov.moe/?keyword=20239566">
+                <b class="font-extrabold border-b-2 border-ob hover:text-ob">
+                20239566号
+                </b>
+              </a>
             </li>
           </ul>
           <ul class="flex flex-col flex-1 gap-1.5">
