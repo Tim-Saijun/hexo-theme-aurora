@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.0...v1.0.1) (2023-10-31)
+
+
+### Bug Fixes
+
+* update footer ([953fe8a](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/953fe8a84a3e6c245f9b8e366e019dd8ceb4a731))
+
 # 1.0.0 (2023-10-31)
 
 
