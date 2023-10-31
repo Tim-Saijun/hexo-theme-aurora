@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.1...v1.0.2) (2023-10-31)
+
+
+### Bug Fixes
+
+* 修改脚注与部分样式 ([bf872fb](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/bf872fbe809fbc299bf72c6fab20a960273eb061))
+
 ## [1.0.1](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.0...v1.0.1) (2023-10-31)
 
 
