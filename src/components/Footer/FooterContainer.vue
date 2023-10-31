@@ -9,7 +9,7 @@
         >
           <ul class="flex flex-col gap-1.5">
             <li>
-              Copyright © 2019 - {{ currentYear }}
+              Copyright © 2022 - {{ currentYear }}
               <b class="font-extrabold">{{ themeConfig.site.author }}</b>
               . All Rights Reserved.
             </li>
