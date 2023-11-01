@@ -184,7 +184,7 @@
   @apply bg-ob-deep-800 p-4 lg:p-14 rounded-2xl shadow-xl mb-8 lg:mb-0;
   img {
     @apply cursor-zoom-in hover:opacity-90 transition-all; //Tim不透明度设为90
-    width: 61%; // 设置宽度为61%
+    width: 72%; // 设置宽度为72%
     margin: auto; // 设置外边距为自动，使图片居中
   }
   h1,
@@ -217,6 +217,11 @@ h1 {
 h2 {
   @apply text-xl lg:text-2xl;
   justify-content: center; //二级标题居中
+  &:after {
+    @apply absolute bottom-0 h-0.5 w-24 rounded-full;
+    content: '';
+    background: var(--main-gradient);
+  }
 }
 
 h3 {
