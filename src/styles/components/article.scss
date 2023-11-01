@@ -183,7 +183,7 @@
 .post-html {
   @apply bg-ob-deep-800 p-4 lg:p-14 rounded-2xl shadow-xl mb-8 lg:mb-0;
   img {
-    @apply cursor-zoom-in hover:opacity-60 transition-all;
+    @apply cursor-zoom-in hover:opacity-10 transition-all; //Tim透明度设为10
   }
   h1,
   h2,
@@ -191,7 +191,7 @@
   h4,
   h5,
   h6 {
-    @apply pt-7 pb-2 mb-4 text-ob-bright relative flex items-center;
+    @apply pt-2 pb-2 mb-0 text-ob-bright relative flex items-center; //2 = 0.5rem pt为padding-top, pb为padding-bottom, mb为margin-bottom
     font-weight: 600;
     &:after {
       @apply absolute bottom-0 h-1 w-24 rounded-full;
@@ -200,32 +200,33 @@
     }
   }
 
-  h1 {
-    @apply text-3xl lg:text-4xl;
-  }
+// 将所有的标题字体大小都降了一级
+h1 {
+  @apply text-2xl lg:text-3xl;
+}
 
-  h2 {
-    @apply text-2xl lg:text-3xl;
-  }
+h2 {
+  @apply text-xl lg:text-2xl;
+}
 
-  h3 {
-    @apply text-xl lg:text-2xl;
-  }
+h3 {
+  @apply text-lg lg:text-xl;
+}
 
-  h4 {
-    @apply text-lg lg:text-xl;
-  }
+h4 {
+  @apply text-base lg:text-lg;
+}
 
-  h5 {
-    @apply text-base lg:text-lg;
-  }
+h5 {
+  @apply text-sm lg:text-base;
+}
 
-  h6 {
-    @apply text-base;
-  }
+h6 {
+  @apply text-sm;
+}
 
   p {
-    @apply my-6 text-base;
+    @apply my-1 text-base; //上下边距为0.25rem，由6改为1
     overflow-wrap: break-word;
   }
 
