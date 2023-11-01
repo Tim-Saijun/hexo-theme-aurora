@@ -7,9 +7,9 @@
         class="ob-gradient-plate opacity-90 relative z-10 bg-ob-deep-900 rounded-2xl flex justify-start items-end px-6 pb-10 shadow-md"
       >
         <h2 class="text-3xl pb-8 lg:pb-14">
-          <p :style="gradientText">EDITOR'S SELECTION</p>
+          <p :style="gradientText">RECENT POSTS FOR YOU 📃</p>
           <span class="relative text-lg text-ob-bright font-semibold">
-            <SvgIcon class="inline-block" icon-class="hot" stroke="white" />
+            <SvgIcon class="inline-block" icon-class="hot" stroke="blue" />
             {{ t('home.recommended') }}
           </span>
         </h2>
