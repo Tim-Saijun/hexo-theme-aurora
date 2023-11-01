@@ -60,7 +60,7 @@ export default defineComponent({
   &.header-active {
     @apply bg-ob-backdrop backdrop-blur shadow-xl text-ob-bright;
     .site-header {
-      @apply py-2;
+      @apply py-0; // 上方菜单栏收起时，header 的 padding 为 0
     }
   }
   transition: 0.3s background ease;

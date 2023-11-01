@@ -183,7 +183,9 @@
 .post-html {
   @apply bg-ob-deep-800 p-4 lg:p-14 rounded-2xl shadow-xl mb-8 lg:mb-0;
   img {
-    @apply cursor-zoom-in hover:opacity-10 transition-all; //Tim透明度设为10
+    @apply cursor-zoom-in hover:opacity-90 transition-all; //Tim不透明度设为90
+    width: 61%; // 设置宽度为61%
+    margin: auto; // 设置外边距为自动，使图片居中
   }
   h1,
   h2,
@@ -193,20 +195,28 @@
   h6 {
     @apply pt-2 pb-2 mb-0 text-ob-bright relative flex items-center; //2 = 0.5rem pt为padding-top, pb为padding-bottom, mb为margin-bottom
     font-weight: 600;
-    &:after {
-      @apply absolute bottom-0 h-1 w-24 rounded-full;
-      content: '';
-      background: var(--main-gradient);
-    }
+    // &:after {
+    //   @apply absolute bottom-0 h-1 w-24 rounded-full;
+    //   content: '';
+    //   background: var(--main-gradient);
+    // }
+    // 去掉标题横线
   }
 
 // 将所有的标题字体大小都降了一级
 h1 {
   @apply text-2xl lg:text-3xl;
+  justify-content: center; //一级标题居中
+  &:after {
+    @apply absolute bottom-0 h-1 w-24 rounded-full;
+    content: '';
+    background: var(--main-gradient);
+  }
 }
 
 h2 {
   @apply text-xl lg:text-2xl;
+  justify-content: center; //二级标题居中
 }
 
 h3 {

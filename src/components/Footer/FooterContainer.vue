@@ -1,5 +1,5 @@
 <template>
-  <div id="footer" class="relative w-full pt-1" :style="gradientBackground">
+  <div id="footer" class="relative w-full pt-0" :style="gradientBackground">
     <span class="bg-ob-deep-800 flex justify-center">
       <div
         class="bg-ob-deep-800 rounded-lg max-w-10/12 lg:max-w-screen-2xl text-sm text-ob-normal w-full py-6 px-6 grid grid-rows-1 lg:grid-rows-none lg:grid-cols-4 justify-center items-center gap-8"
@@ -7,26 +7,7 @@
         <div
           class="flex flex-col lg:flex-row gap-6 lg:gap-12 row-span-1 lg:col-span-3 text-center lg:text-left"
         >
-          <ul class="flex flex-col gap-1.5">
-            <li>
-              Copyright © 2022 - {{ currentYear }}
-              <b class="font-extrabold">{{ themeConfig.site.author }}</b>
-              . All Rights Reserved.
-            </li>
-            <li>
-              Powered by
-              <a href="https://hexo.io/">
-                <b class="font-extrabold border-b-2 border-ob hover:text-ob">
-                  Hexo
-                </b>
-              </a>
-              & Themed by
-              <a href="https://github.com/Tim-Saijun/hexo-theme-aurora-s">
-                <b class="font-extrabold border-b-2 border-ob hover:text-ob">
-                  Aurora-s v{{ themeConfig.version }}
-                </b>
-              </a>
-            </li>
+          <ul class="flex flex-col gap-1.5">          
             <li
               v-if="
                 themeConfig.site.beian.number !== '' ||
@@ -63,6 +44,25 @@
                 20239566号
                 </b>
               </a>
+            </li>
+            <li>
+              Powered by
+              <a href="https://hexo.io/">
+                <b class="font-extrabold border-b-2 border-ob hover:text-ob">
+                  Hexo
+                </b>
+              </a>
+              & Themed by
+              <a href="https://github.com/Tim-Saijun/hexo-theme-aurora-s">
+                <b class="font-extrabold border-b-2 border-ob hover:text-ob">
+                  Aurora-s v{{ themeConfig.version }}
+                </b>
+              </a>
+            </li>
+            <li>
+              Copyright © 2022 - {{ currentYear }}
+              <b class="font-extrabold">{{ themeConfig.site.author }}</b>
+              . All Rights Reserved.
             </li>
           </ul>
           <ul class="flex flex-col flex-1 gap-1.5">

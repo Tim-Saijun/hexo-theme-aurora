@@ -1,8 +1,9 @@
 <template>
   <div :class="notificationClasses">
     <div
-      class="flex flex-col relative bg-ob-deep-900 rounded-xl pt-3 overflow-hidden"
+      class="flex flex-col relative bg-ob-deep-900 rounded-xl pt-0 overflow-hidden" 
     >
+    <!--↑↑↑原为pt-3，现改为0 否则有刘海 -->
       <div class="flex items-center space-x-4 px-6">
         <SvgIcon
           icon-class="bell"
