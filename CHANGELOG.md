@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.2...v1.0.3) (2023-11-01)
+
+
+### Bug Fixes
+
+* 减少文章页的间距与标题大小 ([1579ac0](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/1579ac09d4eaddc0db8a996ae8bec35d8fca5c9c))
+
 ## [1.0.2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.1...v1.0.2) (2023-10-31)
 
 
