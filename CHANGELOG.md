@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.3...v1.0.4) (2023-11-01)
+
+
+### Bug Fixes
+
+* 修改图片缩放居中 修改标题样式与菜单栏收紧 ([9ce6888](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/9ce6888683df6cbd49c109fa74fe51123f50061b))
+
 ## [1.0.3](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.2...v1.0.3) (2023-11-01)
 
 
