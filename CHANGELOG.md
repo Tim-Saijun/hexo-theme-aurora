@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.7...v1.0.8) (2023-11-02)
+
+
+### Bug Fixes
+
+* 代码复制按钮 ([b264fab](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/b264fab14479d4a36b4e918ab9b5b9c1ea0fe324))
+* 按钮触发范围扩大 ([98030ec](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/98030ec541f03ab2806784975fb30168d450cb55))
+
 ## [1.0.7](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.6...v1.0.7) (2023-11-02)
 
 
