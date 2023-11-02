@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.4...v1.0.5) (2023-11-01)
+
+
+### Bug Fixes
+
+* - 提升黑暗模式的文字亮度 - 图片放大 ([b87a6b6](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/b87a6b6c7bc864f814d9c7e431434ef6fcc933dc))
+* 修改推荐文字 ([d1940b2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/d1940b2f494b610faa9a06a988b87fa701ed2b8d))
+* 替换默认封面 ([3dc033a](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/3dc033a8875deb507c353925b8a9e655a77830a0))
+
 ## [1.0.4](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.3...v1.0.4) (2023-11-01)
 
 
