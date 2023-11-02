@@ -696,11 +696,12 @@ div[class^="language-"] .lang
 
 div[class^="language-"] button
 {
-  @apply absolute top-4 right-5 z-150 opacity-30 capitalize;
+  @apply absolute top-4 right-5 opacity-30 capitalize;
   height: 2rem;
   width: 3rem;
   border-radius: 0.5rem;
   background: white;
+  z-index: 150;
 }
 
 div[class^="language-"] pre {
