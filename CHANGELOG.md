@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.5...v1.0.6) (2023-11-02)
+
+
+### Bug Fixes
+
+* 修复语法错误以启用代码复制 ([6b27aa5](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/6b27aa5d5c746e111985c0348017ccd693e14218))
+
 ## [1.0.5](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.4...v1.0.5) (2023-11-01)
 
 
