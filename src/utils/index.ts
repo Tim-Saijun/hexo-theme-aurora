@@ -144,21 +144,6 @@ export function getDaysTillNow(from: string) {
   return Math.floor(timeDiff / (1000 * 3600 * 24))
 }
 
-export function convertToLocale(label: string) {
-  const locales = [
-    'links-badge-tech',
-    'links-badge-designer',
-    'links-badge-vip',
-    'links-badge-personal'
-  ]
-
-  if (locales.includes(label)) {
-    return `settings.${label}`
-  }
-
-  return label
-}
-
 export function cleanPath(path: string) {
   if (path !== '/' && path.at(-1) === '/') {
     return path.slice(0, -1)
@@ -183,4 +168,12 @@ export function throttle(func: () => void, timeFrame: number) {
       time = Date.now()
     }
   }
+}
+
+export function paginator<T>(data: T[], page: number, pageSize: number) {
+  const skip = pageSize * (page - 1)
+  // slice function's endIndex will not be included
+  // therefore the ending index should be pageSize not pageSize - 1
+  const endIndex = skip > data.length - 1 ? undefined : pageSize * page
+  return data.slice(skip, endIndex)
 }
