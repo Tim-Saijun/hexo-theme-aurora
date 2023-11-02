@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.8...v1.1.0) (2023-11-02)
+
+
+### Features
+
+* loader and proxy configuration message to ([7eb184d](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/7eb184da30791abd2e77f10d29357a8d5f135dfc))
+
 ## [1.0.8](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.7...v1.0.8) (2023-11-02)
 
 
