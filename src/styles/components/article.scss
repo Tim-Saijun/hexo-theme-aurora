@@ -689,7 +689,7 @@ div[class^="language-"] {
 }
 
 div[class^="language-"] .lang,
-div[class^="language-"] button,
+div[class^="language-"] button
 {
   @apply absolute top-4 right-5 z-50 opacity-40 capitalize;
 }
