@@ -1,3 +1,5 @@
+# Aurora-s 修改内容与使用方法
+点此查看👉[https://www.zair.top/post/hexo-theme-aurora-s](https://www.zair.top/post/hexo-theme-aurora-s)👈
 <div align="center">
   <a href="https://tridiamond.tech" target="_blank" rel="noopener noreferrer">
     <img width="450" alt="image" src="https://user-images.githubusercontent.com/24708758/114228502-196c9000-99a9-11eb-87c7-de981ddc4872.png">
