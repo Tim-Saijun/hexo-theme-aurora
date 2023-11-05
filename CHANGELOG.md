@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.0...v1.1.1) (2023-11-05)
+
+
+### Bug Fixes
+
+* category is not paginated probably ([eb8c641](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/eb8c6415e5202d65345395309eaaa67fa11a6606))
+* custom link label trying to localize ([10c4a5b](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/10c4a5b15a65c81f9c1bcd43a25b80a1af579468))
+* 更新页脚 ([df941a2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/df941a2e75682bbdf2a548bec9ef9178e63bf802))
+
 # [1.1.0](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.0.8...v1.1.0) (2023-11-02)
 
 
