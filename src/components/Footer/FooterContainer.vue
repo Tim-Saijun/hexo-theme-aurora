@@ -134,8 +134,10 @@
             :src="themeConfig.site.avatar"
             alt="avatar"
           /> -->
-          <a target="_blank" href="http://www.freecdn.pw/?zzwz" title="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）" alt="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）">本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务</a>
-        </div>
+          <a href="https://sakuraidc.cc/" target="_blank" alt="樱花主机" rel="nofollow">
+            <img src="https://www.sakuraidc.cc/wp-content/uploads/2023/10/d8b2b1f202122642.png" alt="樱花主机" style="height: 1.7em; max-height: 1.8em;padding-bottom: 0px;">
+          </a>
+      </div>
       </div>
     </span>
   </div>
