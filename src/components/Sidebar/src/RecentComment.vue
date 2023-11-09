@@ -13,13 +13,13 @@
               :href="`${comment.html_url}#${comment.id}`"
               class="flex flex-row justify-items-center items-stretch cursor-pointer hover:opacity-100"
             >
-              <div class="flex justify-start items-start">
+              <!-- <div class="flex justify-start items-start">
                 <img
                   :class="avatarClass"
                   :src="comment.user.avatar_url"
                   alt="comment-avatar"
                 />
-              </div>
+              </div> -->
               <div class="flex-1 text-xs">
                 <div class="text-xs mb-2 pt-1">
                   <span class="text-ob-secondary pr-2">
