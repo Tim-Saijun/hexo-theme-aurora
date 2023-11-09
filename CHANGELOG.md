@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.1...v1.1.2) (2023-11-09)
+
+
+### Bug Fixes
+
+* 去除最近评论的头像 ([3fb3d0c](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/3fb3d0c34eff6aceb07ae95265a579ff78bb5c64))
+
 ## [1.1.1](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.0...v1.1.1) (2023-11-05)
 
 
