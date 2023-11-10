@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.2...v1.1.3) (2023-11-10)
+
+
+### Bug Fixes
+
+* search icon is not clickable when multi-lang is off ([a4cd157](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/a4cd15756606fe24291ef5860d824d6c1bfd16ff))
+
 ## [1.1.2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.1...v1.1.2) (2023-11-09)
 
 
