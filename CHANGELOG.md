@@ -5,6 +5,14 @@
 
 * :bug: 去除模板中的waline ([d20139f](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/d20139fcc6191fe84af1bbf74abdddc0d4636043))
 * :bug: 更换waline cdn地址 ([9fa6996](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/9fa69967bb16f7503a96a25993853351dbcb26d2))
+
+## [1.1.4](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.3...v1.1.4) (2024-01-14)
+
+
+### Bug Fixes
+
+* :bug: 去除模板中的waline ([d20139f](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/d20139fcc6191fe84af1bbf74abdddc0d4636043))
+* :bug: 更换waline cdn地址 ([9fa6996](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/9fa69967bb16f7503a96a25993853351dbcb26d2))
 * 测试内容
 
 ## [1.1.3](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.2...v1.1.3) (2023-11-10)
