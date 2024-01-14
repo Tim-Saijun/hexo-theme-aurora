@@ -1,3 +1,29 @@
+# [2.6.0](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.5.3...v2.6.0) (2024-01-14)
+
+
+### Bug Fixes
+
+* - 提升黑暗模式的文字亮度 - 图片放大 ([b87a6b6](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/b87a6b6c7bc864f814d9c7e431434ef6fcc933dc))
+* :bug: 去除模板中的waline ([d20139f](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/d20139fcc6191fe84af1bbf74abdddc0d4636043))
+* :bug: 更换waline cdn地址 ([9fa6996](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/9fa69967bb16f7503a96a25993853351dbcb26d2))
+* update footer ([953fe8a](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/953fe8a84a3e6c245f9b8e366e019dd8ceb4a731))
+* 代码复制按钮 ([b264fab](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/b264fab14479d4a36b4e918ab9b5b9c1ea0fe324))
+* 修复语法错误以启用代码复制 ([6b27aa5](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/6b27aa5d5c746e111985c0348017ccd693e14218))
+* 修改代码复制按钮样式 ([908b22c](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/908b22cdab788fbd6483dc5d8a8d98e5ab575a06))
+* 修改图片缩放居中 修改标题样式与菜单栏收紧 ([9ce6888](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/9ce6888683df6cbd49c109fa74fe51123f50061b))
+* 修改推荐文字 ([d1940b2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/d1940b2f494b610faa9a06a988b87fa701ed2b8d))
+* 修改脚注与部分样式 ([bf872fb](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/bf872fbe809fbc299bf72c6fab20a960273eb061))
+* 减少文章页的间距与标题大小 ([1579ac0](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/1579ac09d4eaddc0db8a996ae8bec35d8fca5c9c))
+* 去除最近评论的头像 ([3fb3d0c](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/3fb3d0c34eff6aceb07ae95265a579ff78bb5c64))
+* 按钮触发范围扩大 ([98030ec](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/98030ec541f03ab2806784975fb30168d450cb55))
+* 更新页脚 ([df941a2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/df941a2e75682bbdf2a548bec9ef9178e63bf802))
+* 替换默认封面 ([3dc033a](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/3dc033a8875deb507c353925b8a9e655a77830a0))
+
+
+### Features
+
+* loader and proxy configuration message to ([7eb184d](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/7eb184da30791abd2e77f10d29357a8d5f135dfc))
+
 ## [1.1.4](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v1.1.3...v1.1.4) (2024-01-14)
 
 
