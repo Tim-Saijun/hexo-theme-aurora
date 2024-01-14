@@ -7,7 +7,7 @@
         <div
           class="flex flex-col lg:flex-row gap-6 lg:gap-12 row-span-1 lg:col-span-3 text-center lg:text-left"
         >
-          <ul class="flex flex-col gap-1.5">          
+          <ul class="flex flex-col gap-1.5">
             <li
               v-if="
                 themeConfig.site.beian.number !== '' ||
@@ -134,9 +134,9 @@
             :src="themeConfig.site.avatar"
             alt="avatar"
           /> -->
-          <a href="https://sakuraidc.cc/" target="_blank" alt="樱花主机" rel="nofollow">
+          <!-- <a href="https://sakuraidc.cc/" target="_blank" alt="樱花主机" rel="nofollow">
             <img src="https://www.sakuraidc.cc/wp-content/uploads/2023/10/d8b2b1f202122642.png" alt="樱花主机" style="height: 1.7em; max-height: 1.8em;padding-bottom: 0px;">
-          </a>
+          </a> -->
       </div>
       </div>
     </span>
