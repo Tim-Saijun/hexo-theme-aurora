@@ -5,7 +5,8 @@ import {
   RecentComments
   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
   // @ts-expect-error
-} from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs'
+  // } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs'
+} from 'https://cdn.bootcdn.net/ajax/libs/waline/2.15.7/waline.js'
 import { cleanPath, filterHTMLContent, formatTime } from '..'
 import { Locales, PluginsData } from '@/models/ThemeConfig.class'
 
