@@ -1,3 +1,11 @@
+## [2.6.3](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.2...v2.6.3) (2024-01-16)
+
+
+### Bug Fixes
+
+* :zap: 替换为群友自建cdn ([d518d78](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/d518d78bcda235a079559c445fcb3c7ea423f3af))
+* :zap: 替换回JsDeliver ([1ad4745](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/1ad4745a63e78da7272371414ddc5d56d807533f))
+
 ## [2.6.2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.1...v2.6.2) (2024-01-16)
 
 
