@@ -1,3 +1,11 @@
+## [2.6.2](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.1...v2.6.2) (2024-01-16)
+
+
+### Bug Fixes
+
+* :zap: 替换领动cdn ([7c7cd8a](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/7c7cd8a9c8c5bee36435ea19615a808e09709e4f))
+* :zap: 替换领动cdn ([45dce3a](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/45dce3a70d7f57c12cf869f13f3e4bf85b9d9ae1))
+
 ## [2.6.1](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.0...v2.6.1) (2024-01-16)
 
 
