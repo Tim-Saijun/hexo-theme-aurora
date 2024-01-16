@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.0...v2.6.1) (2024-01-16)
+
+
+### Bug Fixes
+
+* :zap: waline cdn改用jsdeliver ([2bb60fa](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/2bb60fa28278761a1108670becf8a487f8273b24))
+
 # [2.6.0](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.5.3...v2.6.0) (2024-01-14)
 
 
