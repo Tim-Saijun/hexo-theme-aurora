@@ -1,3 +1,10 @@
+## [2.6.6](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.5...v2.6.6) (2024-02-03)
+
+
+### Bug Fixes
+
+* cdn替换 ([da3b861](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/da3b861c48cc35900aa86c888ae4f62114e0cc5c))
+
 ## [2.6.5](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.4...v2.6.5) (2024-02-02)
 
 ## [2.6.4](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.3...v2.6.4) (2024-02-02)
