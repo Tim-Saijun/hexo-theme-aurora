@@ -142,7 +142,7 @@
             alt="avatar"
           /> -->
           <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" alt="又拍云" rel="nofollow">
-            本站由<img src="/img/upyun.svg" alt="upyun">提供CDN加速/云存储服务
+            <img src="/img/upyun.svg" alt="upyun" max-width:50%>本站由又拍云提供CDN加速/云存储服务
           </a>
       </div>
       </div>
