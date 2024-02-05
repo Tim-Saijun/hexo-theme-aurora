@@ -6,7 +6,8 @@ import {
   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
   // @ts-expect-error
   // } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs'
-} from 'https://unpkg.17yun.bf/@waline/client@v2/dist/waline.mjs'
+  // } from 'https://unpkg.17yun.bf/@waline/client@v2/dist/waline.mjs'
+} from 'https://cdn1.zair.top/cdn/waline.mjs'
 import { cleanPath, filterHTMLContent, formatTime } from '..'
 import { Locales, PluginsData } from '@/models/ThemeConfig.class'
 
