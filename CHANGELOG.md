@@ -1,3 +1,10 @@
+## [2.6.9](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.8...v2.6.9) (2024-02-05)
+
+
+### Bug Fixes
+
+* 页脚图标加载错误 ([7657040](https://github.com/Tim-Saijun/hexo-theme-aurora-s/commit/76570407b817e695f1055a30f197243be5ee4244))
+
 ## [2.6.8](https://github.com/Tim-Saijun/hexo-theme-aurora-s/compare/v2.6.7...v2.6.8) (2024-02-04)
 
 
